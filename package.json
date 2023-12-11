@@ -1,0 +1,7 @@
+{
+  "name": "@rakko/publish-test",
+  "version": "0.0.0",
+  "description": "npm package meta 测试",
+  "type": "module",
+  "packageManager": "pnpm@8.12.0"
+}
