@@ -4,6 +4,7 @@
   "description": "npm package meta 测试",
   "type": "module",
   "packageManager": "pnpm@8.12.0",
+  "author": "suiyun39 <suiyun39@gmail.com>",
   "license": "MIT",
   "repository": "github:suiyun39/rakko-publish-test"
 }
